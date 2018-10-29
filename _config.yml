@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Kurashicom Technology Group
 description: 私たちが大切にしている考えを書いています。
 logo: https://s3-ap-northeast-1.amazonaws.com/qiita-organization-image/2b9a2acf98134ef3269fde0f70512f67bd906365/original.jpg?1536142056
-show_downloads: true
+show_downloads: false
